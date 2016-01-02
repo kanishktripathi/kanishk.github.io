@@ -462,3 +462,8 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+#intro canvas {
+    position: absolute;
+    overflow: hidden;
+}
