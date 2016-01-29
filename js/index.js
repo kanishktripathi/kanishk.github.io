@@ -12,6 +12,7 @@ $(function() {
     $('#project_mining').load('projects/mining.html');
     $('#project_listing').load('projects/listing.html');
     $('#project_ame').load('projects/ame.html');
+    $('#project_eziMusic').load('projects/eziMusic.html');
     $('#intro').particleground();
     $('body').on('click', '.page-scroll a', function(event) {
         var $anchor = $(this);
